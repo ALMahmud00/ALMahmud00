@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-[![ALMahmud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALMahmud00&count_private=true&show_icons=true&theme=dracula)](https://github.com/ALMahmud00)
+[![ALMahmud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALMahmud00&count_private=true&show_icons=true&theme=anaconda)](https://github.com/ALMahmud00)
