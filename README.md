@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 
 [![ALMahmud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALMahmud00&count_private=true&show_icons=true&theme=eagle)](https://github.com/ALMahmud00)
+-->
